@@ -1,0 +1,9 @@
+Admin 
+
+mail : admin@gmail.com
+pass : password
+
+User
+
+mail : oishe@gmail.com
+pass : 123

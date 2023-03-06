@@ -1,3 +1,4 @@
+  <!--  -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +14,7 @@
             <h2><center><strong>O-SHOP</strong></center></h2>
             <p><center>A few clicks is all it takes.<br>
 A Website that's Fulfills your all needs.</center></p>
+
             <ul class="socials">
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>

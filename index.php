@@ -31,7 +31,7 @@
 						  <div class="mySlides fade">
 						    <div class="numbertext">1 / 3</div>
 						    <img src="images\black_friday.jpg" style="width:100%">
-						    <div class="text">Black Friday Offer</div>
+						    <div class="text">Black Friday Offer.</div>
 						  </div>
 
 						  <div class="mySlides fade">

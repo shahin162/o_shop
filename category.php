@@ -17,6 +17,7 @@
 	$pdo->close();
 
 ?>
+
 <?php include 'includes/header.php'; ?>
 <body class="hold-transition skin-red layout-top-nav">
 <div class="wrapper">
